@@ -1,0 +1,14 @@
+a {
+    color: #93223c;
+    text-decoration: none;
+    background-image: linear-gradient(currentColor, currentColor);
+    background-position: 0 100%;
+    background-repeat: no-repeat;
+    background-size: 0 2px;
+    transition: 0.4s;
+}
+
+a:hover {
+    background-size: 100% 2px;
+}
+
